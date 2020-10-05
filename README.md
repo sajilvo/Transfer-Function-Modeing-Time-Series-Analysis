@@ -2,9 +2,7 @@
 
 Problem Description:
 
-A small city XYZ has been taking record of its monthly electricity consumption (in kilowatt hours) for about 10 years from 1997. Meanwhile, the monthly maximum temperature (in degree C) has also been recorded. The time series plots shown below indicate the varying of electricity consumption as well as temperature from Jan. 1997 to Dec. 2006. The data are included in the csv file (train.csv). A small part of them is shown as below.
-
-![Time series Image](Transfer Function.jpg)
+A small city XYZ has been taking record of its monthly electricity consumption (in kilowatt hours) for about 10 years from 1997. Meanwhile, the monthly maximum temperature (in degree C) has also been recorded. The time series plots shown below indicate the varying of electricity consumption as well as temperature from Jan. 1997 to Dec. 2006.
 
 Requirements
 
